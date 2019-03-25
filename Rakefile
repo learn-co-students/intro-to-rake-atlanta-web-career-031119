@@ -9,3 +9,4 @@ namespace :greeting do
     puts "hola from Rake!
   end"
 end
+end
